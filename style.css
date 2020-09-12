@@ -1,0 +1,14 @@
+*{
+    margin: auto;
+    padding: 0;
+    height: 200px;
+    width: 500px;
+    box-sizing: border-box;
+    border: 1px solid black;
+}
+
+canvas{
+    display: block;
+    
+    background-image:url("img2.jpg");
+}
